@@ -18,7 +18,7 @@ The HTML file (`index.html`) contains a `div` element styled with CSS to have a 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/interactive-html-showcase.git
+   git clone [https://github.com/your-username/interactive-html-showcase.git](https://github.com/ummefahad/HTML-Showcase_Background-Transitions.git)
 ## Results
 ![Screenshot 2024-05-03 154933](https://github.com/ummefahad/HTML-Showcase_Background-Transitions/assets/110823502/044c059c-7bd8-4175-9ef9-1d07c386f659)
 ![Screenshot 2024-05-03 154917](https://github.com/ummefahad/HTML-Showcase_Background-Transitions/assets/110823502/1a019b14-c81e-4f45-859f-5d120e6a5e52)
